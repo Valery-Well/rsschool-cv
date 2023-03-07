@@ -7,3 +7,4 @@
 <p> I translated business correspondence from English into Russian. And studied at language course of English. I stopped at pre-intermediate level, becose changed my work.
   
 <p> Completed the course on the basics of HTML, CSS.
+ 
