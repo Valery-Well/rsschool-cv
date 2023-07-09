@@ -1,15 +1,12 @@
 # Valery Vlaznev
 
 
----
-
 ## My Contact Info:
 * e-mail: lareacher@mail.ru
 * Discord: JD11#8353
 * GitHub: Valery-Well
 * Phone: +7 988 551-18-06
-  
----
+
 ## About Me
 
 
@@ -19,13 +16,11 @@ While working in the municipal service, I moderated the section of the municipal
 
 I was an information systems specialist in a public organization. I worked with databases and several services of the organization to work with voters for the election period.
 
----
 ## Education
 
 Russian Presidential Academy of National Economy and Public Administration
 (Civil Service)
 
----
 
 ## Skills 
 * HTML
@@ -33,7 +28,6 @@ Russian Presidential Academy of National Economy and Public Administration
 * GIT/GitHub
 * JavaScript (in process)
 
----
 ## Languages
 
 * English - A2 (B1 in process)
