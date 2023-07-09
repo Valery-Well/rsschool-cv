@@ -23,7 +23,7 @@ I was an information systems specialist in a public organization. I worked with 
 ## Education
 
 Russian Presidential Academy of National Economy and Public Administration
-Civil Service
+(Civil Service)
 
 ---
 
